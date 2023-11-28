@@ -69,8 +69,6 @@ CCTV14,http://maomao.kandiantv.cn/cqyx.php?id=cctvseHD
 CCTV15,http://maomao.kandiantv.cn/cqyx.php?id=cctv15HD
 CCTV16,http://maomao.kandiantv.cn/cqyx.php?id=cctv16HD
 CCTV17,http://maomao.kandiantv.cn/cqyx.php?id=cctv17HD
-CCTV4欧洲,http://maomao.kandiantv.cn/migu.php?id=cctv4o
-CCTV4美洲,http://maomao.kandiantv.cn/migu.php?id=cctv4a
 CCTV5+,http://maomao.kandiantv.cn/migu.php?id=cctv5p
 CCTV5+,http://maomao.kandiantv.cn/migu.php?id=cctv5p2
 省级卫视,#genre#
