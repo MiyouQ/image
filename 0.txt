@@ -233,6 +233,14 @@ CCTV5+,http://maomao.kandiantv.cn/migu.php?id=cctv5p2
 七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
 东方财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 
+北京频道,#genre#
+北京新闻,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1182
+北京财经,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1090
+北京文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
+北京科教,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1182
+北京影视,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1417
+北京生活,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1229
+
 浙江频道,#genre#
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
