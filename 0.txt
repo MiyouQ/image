@@ -301,8 +301,6 @@ CCTV5+,http://maomao.kandiantv.cn/migu.php?id=cctv5p2
 连云港公共,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1758256819_-260476466/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8?icpid=3&RTS=1674386168&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 贾汪新闻,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw1936977583_-1580245246/ott.mobaibox.com/PLTV/3/224/3221227385/index.m3u8?icpid=3&RTS=1674386347&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 贾汪旅游,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1573902922_2103531385/ott.mobaibox.com/PLTV/3/224/3221227389/index.m3u8?icpid=3&RTS=1674385984&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-洪泽综合,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw357192059_1412440063/ott.mobaibox.com/PLTV/3/224/3221228287/index.m3u8?icpid=3&RTS=1674380472&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-高淳新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw1562239821_-577663092/ott.mobaibox.com/PLTV/3/224/3221227870/index.m3u8?icpid=3&RTS=1674385972&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
 赣榆,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1561848585_-679912230/ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8?icpid=3&RTS=1674385972&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 东海综合,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1547150751_-2143084998/ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8?icpid=3&RTS=1674385957&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 崇川,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw1137206925_-1558979501/ott.mobaibox.com/PLTV/3/224/3221228533/index.m3u8?icpid=3&RTS=1674372662&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
