@@ -256,7 +256,6 @@ CCTV5+,http://maomao.kandiantv.cn/migu.php?id=cctv5p2
 江苏教育,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1571163178_71306001/ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 江苏公共新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw352016925_-1280546318/ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8?icpid=3&RTS=1674380467&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 江苏城市,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1570826537_-1187714480/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-苏州新闻综合 520,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/wh7f454c46tw561423186_1188646951/ott.mobaibox.com/PLTV/3/224/3221227768/index.m3u8?icpid=3&RTS=1674380676&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 南京影视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355640161_-130488298/ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 南京十八,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw355334905_1195668462/ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8?icpid=3&RTS=1674380470&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 南京生活,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw355956085_-2041179711/ott.mobaibox.com/PLTV/3/224/3221227786/index.m3u8?icpid=3&RTS=1674380471&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
