@@ -1,4 +1,4 @@
-中央电视台,#genre#
+央视,#genre#
 
 CCTV1,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?love=freedom
 CCTV2,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?love=freedom
@@ -152,7 +152,7 @@ CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
-省级卫视,#genre#
+卫视,#genre#
 北京卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001029/index.m3u8?love=freedom
 东方卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001013/index.m3u8?love=freedom
 湖南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?love=freedom
@@ -274,7 +274,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 江苏教育,http://hms2844nc1972666627.live.aikan.miguvideo.com/wh7f454c46tw1594948125_-1781652450/wd_r2/jstv/jsjiaoyu/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=265219146&timezone=UTC&mtv_session=a16c1bfb5e088bbea01975f7a8082344&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3b8baea037f0011e4d3ad9db8c91f5cf
 山东教育卫视,http://hms2844nc1972666628.live.aikan.miguvideo.com/wh7f454c46tw1595216303_855788936/envivo_v/2018/SD/shandongedu/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073745&ContentId=265218942&timezone=UTC&mtv_session=5df7c38235f8bfddc40ba06656567aa2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=29623301ce35130c865d7d28c7f3b0c3
 
-上海频道,#genre#
+上海,#genre#
 东方卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001013/index.m3u8?love=freedom
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
@@ -326,7 +326,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 纪实人文,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 乐游,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-北京频道,#genre#
+北京,#genre#
 北京新闻,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1182
 北京财经,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1090
 北京文艺,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1045
@@ -334,7 +334,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 北京影视,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1417
 北京生活,http://81.69.20.196/mqlive.m3u8?ip=61.48.132.122:8000&id=live1229
 
-江苏频道,#genre#
+江苏,#genre#
 江苏综艺,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1571344065_739761579/ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 江苏优漫卡通,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw1571512220_124876058/ott.mobaibox.com/PLTV/3/224/3221225933/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw352896103_1361086132/ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8?icpid=3&RTS=1674380468&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw353139101_541630112/ott.mobaibox.com/PLTV/3/224/3221226982/index.m3u8?icpid=3&RTS=1674380468&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 江苏影视,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1571003773_1055968907/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
@@ -401,7 +401,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 宝应新闻综合,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1559024780_984527406/ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8?icpid=3&RTS=1674385969&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 宝应生活资讯,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw2670277593_-1188477212/ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8?icpid=3&RTS=1674387080&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 
-浙江频道,#genre#
+浙江,#genre#
 浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -411,24 +411,24 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
-海南频道,#genre#
+海南,#genre#
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
 海南文旅,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?fmmv6
 海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6
 海南自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
 
-湖南频道,#genre#
+湖南,#genre#
 金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
 茶友频道,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 快乐垂钓,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 
-香港频道,#genre#
+香港,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
-测试频道,#genre#
+测试,#genre#
 四海钓鱼,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1594642123_-1739463849/wd_r4/peoplecn/shdiaoyu/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=265667494&timezone=UTC&mtv_session=62fe26ea17a6225b620ad6528d069bad&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1dd468b7cedccd815604e427c9d0d8f7
 游戏风云HD,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1595481830_-1185482178/wd_r2/ocn/youxifengyunhd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073745&ContentId=265667664&timezone=UTC&mtv_session=a0ecd5ce9d57ca6fe2f9a78dd80357fc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=238d629872f240eaaeb4749a58e17d18
 天元围棋,http://hms2844nc1972666628.live.aikan.miguvideo.com/wh7f454c46tw1591088432_505084450/migu/kailu/shan3xiws/57/20220809/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531262099&timezone=UTC&mtv_session=3685f124271f5ee0b99269587b09cf4a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=25d01304c5d1e6f70cc33073ccfdaf0f
