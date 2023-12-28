@@ -413,6 +413,24 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
+黑龙江,#genre#
+黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226006/index.m3u8
+黑龙江文体,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
+黑龙江新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225992/index.m3u8
+黑龙江新闻,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225967/index.m3u8
+黑龙江都市,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225990/index.m3u8
+黑龙江影视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
+黑龙江公共,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
+黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
+
+黑龙江都市,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
+黑龙江公共,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
+黑龙江少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+黑龙江文体,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
+黑龙江影视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+
 山东,#genre#
 山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
