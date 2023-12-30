@@ -399,45 +399,43 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
 
 陕西,#genre#
-陕西体育休闲 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西公共 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西影视 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西新闻资讯 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西新闻资讯 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西生活 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西西部电影 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西都市青春 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-西安1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001720/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-西安2 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-西安3 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001732/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-西安4 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001769/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-西安丝路 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001779/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-西安教育 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-南郑1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000002435/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-咸阳1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-延安1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001596/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-延安1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001819/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-延安公共 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001733/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-延安公共 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001740/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-杨凌 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001809/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-榆林1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-渭南新闻综合 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-略阳1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001417/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-略阳1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001440/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-铜川1 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001735/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-铜川2 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001770/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-江西风尚购物 720,http://111.20.105.60:6060/yinhe/2/ch00000090990000001437/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽家家购物 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001584/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-江苏好享购物 720,http://111.20.105.60:6060/yinhe/2/ch00000090990000001277/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-聚鲨环球精选 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001300/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-聚鲨环球精选 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000002013/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-聚鲨环球精选 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000002023/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南快乐购 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001590/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南快乐购 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001569/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西乐家购物 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001731/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西乐家购物 576,http://111.20.105.60:6060/yinhe/2/ch00000090990000001759/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-
+陕西体育休闲 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西公共 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西影视 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001730/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西新闻资讯 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西新闻资讯 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西生活 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西西部电影 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西都市青春 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+西安1 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001720/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+西安2 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001595/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+西安3 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001732/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+西安4 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001769/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+西安丝路 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001779/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+西安教育 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001789/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+南郑1 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002435/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+咸阳1 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001799/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+延安1 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001596/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+延安1 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001819/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+延安公共 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001733/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+延安公共 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001740/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+杨凌 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001809/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+榆林1 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001710/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+渭南新闻综合 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001585/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+略阳1 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001417/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+略阳1 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+铜川1 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001735/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+铜川2 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001770/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江西风尚购物 720,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001437/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安徽家家购物 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001584/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+江苏好享购物 720,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001277/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+聚鲨环球精选 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001300/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+聚鲨环球精选 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002013/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+聚鲨环球精选 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002023/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南快乐购 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001590/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+湖南快乐购 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001569/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西乐家购物 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001731/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西乐家购物 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001759/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 海南,#genre#
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
