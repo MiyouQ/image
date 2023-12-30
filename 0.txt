@@ -453,6 +453,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 台湾,#genre#
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 
 测试,#genre#
 日本 ANNNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
