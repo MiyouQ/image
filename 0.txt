@@ -426,16 +426,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 略阳1 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001440/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 铜川1 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001735/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 铜川2 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001770/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-江西风尚购物 720,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001437/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽家家购物 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001584/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-江苏好享购物 720,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001277/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-聚鲨环球精选 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001300/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-聚鲨环球精选 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002013/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-聚鲨环球精选 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002023/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南快乐购 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001590/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南快乐购 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001569/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西乐家购物 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001731/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西乐家购物 576,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001759/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 海南,#genre#
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
