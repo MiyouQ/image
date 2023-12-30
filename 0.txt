@@ -450,5 +450,3 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 测试,#genre#
 日本 ANNNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-
-CCTV1,http://[240e:3a1:56af:a210:2276:93ff:fe29:500]:5050/udp/239.49.8.19:9614
