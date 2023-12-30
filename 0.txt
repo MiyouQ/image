@@ -417,7 +417,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 
 台湾,#genre#
-中天新闻https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 
 测试,#genre#
 日本 ANNNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
