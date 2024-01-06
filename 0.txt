@@ -339,6 +339,7 @@ CGTN,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
 徐州1,http://192.168.1.99:5050/udp/239.49.9.45:6000
 盐城1,http://192.168.1.99:5050/udp/239.49.9.51:6000
 
+溧阳综合,http://tvlive.cxzly.com/live/tv.m3u8
 
 江苏综艺,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1571344065_739761579/ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 优漫卡通,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw1571512220_124876058/ott.mobaibox.com/PLTV/3/224/3221225933/index.m3u8?icpid=3&RTS=1674385981&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw352896103_1361086132/ott.mobaibox.com/PLTV/3/224/3221227577/index.m3u8?icpid=3&RTS=1674380468&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw353139101_541630112/ott.mobaibox.com/PLTV/3/224/3221226982/index.m3u8?icpid=3&RTS=1674380468&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
