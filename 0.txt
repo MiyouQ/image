@@ -533,7 +533,7 @@ CGTN,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
 TVBS新闻55,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 
 国际,#genre#
-日本 ANNNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+ANNNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
