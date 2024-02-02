@@ -247,7 +247,6 @@ CGTN,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 东方卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111131BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaKz9fMrAi6%2FC6MZg8Mm9JQwoDIwMxbrlyyVy9x6ZDKnJ1LnEAwl4s1JgSBXbCxhRiWmveR7x9HhnhsF9G%2Bd4f8
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221227511/index.m3u8
-http://[2409:8087:7000:20:1000::22]
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
