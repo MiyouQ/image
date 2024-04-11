@@ -84,10 +84,7 @@ CGTN记录,https://livedoc.cgtn.com/500d/prog_index.m3u8
 西藏卫视,http://192.168.1.99:5050/udp/239.49.0.245:8000
 内蒙古卫视,http://192.168.1.99:5050/udp/239.49.0.180:8000
 
-
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/chunklist_w64361036.m3u8
-
-
 
 
 上海,#genre#
