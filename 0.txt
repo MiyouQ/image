@@ -234,7 +234,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 上海,#genre#
 
 东方卫视,http://192.168.1.99:81/sh.php?id=dfws
-新闻综合,http://192.168.1.99:81/sh.php?id=shxwzh
+上海新闻综合,http://192.168.1.99:81/sh.php?id=shxwzh
 上海都市,http://192.168.1.99:81/sh.php?id=shds
 第一财经,http://192.168.1.99:81/sh.php?id=dycj
 纪实人文,http://192.168.1.99:81/sh.php?id=jsrw
