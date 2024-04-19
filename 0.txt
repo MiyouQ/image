@@ -233,16 +233,12 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 上海,#genre#
 
-上海新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-东方影视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
-东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
-上海都市,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000018926/1.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-上海ICS,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000030951/1.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
-七彩戏剧,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
-法治天地,http://zteres.sn.chinamobile.com:6060/000000001000/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
-第一财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
-东方购物,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010004/1.m3u8?channel-id=bestzb&Contentid=5000000007000010004&livemode=1&stbId=3
+东方卫视,http://192.168.1.99:81/sh.php?id=dfws
+新闻综合,http://192.168.1.99:81/sh.php?id=shxwzh
+上海都市,http://192.168.1.99:81/sh.php?id=shds
+第一财经,http://192.168.1.99:81/sh.php?id=dycj
+纪实人文,http://192.168.1.99:81/sh.php?id=jsrw
+哈哈炫动,http://192.168.1.99:81/sh.php?id=hhxd
 
 第一财经,http://192.168.1.99:5050/udp/239.49.8.37:8000
 欢笑剧场4K,http://192.168.1.99:5050/udp/239.49.8.106:8000
