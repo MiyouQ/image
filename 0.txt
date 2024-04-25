@@ -236,6 +236,17 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 东方卫视,http://192.168.1.99:5050/udp/239.49.8.17:9606
 东方卫视,http://192.168.1.99:5050/udp/239.49.8.140:6000
 
+http://192.168.1.99:81/bestv.php?id=shxwzh
+http://192.168.1.99:81/bestv.php?id=shds
+http://192.168.1.99:81/bestv.php?id=dfcj
+http://192.168.1.99:81/bestv.php?id=dfys
+http://192.168.1.99:81/bestv.php?id=shjsrw
+http://192.168.1.99:81/bestv.php?id=shics
+http://192.168.1.99:81/bestv.php?id=wxty
+http://192.168.1.99:81/bestv.php?id=fztd
+http://192.168.1.99:81/bestv.php?id=dycj
+http://192.168.1.99:81/bestv.php?id=dfgw
+
 上海新闻综合,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 
 上海新闻综合,http://zhangjiang.lawangxian.com:9901/tsfile/live/0107_1.m3u8
