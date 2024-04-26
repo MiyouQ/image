@@ -239,15 +239,15 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 上海新闻综合,http://192.168.1.99:81/bestv.php?id=shxwzh
 上海都市,http://192.168.1.99:81/bestv.php?id=shds
 上海纪实人文,http://192.168.1.99:81/bestv.php?id=shjsrw
-上海ICS,http://192.168.1.99:81/bestv.php?id=shics
-五星体育,http://192.168.1.99:81/bestv.php?id=wxty
-法治天地,http://192.168.1.99:81/bestv.php?id=fztd
-上海教育,http://192.168.1.99:81/bestv.php?id=shjy
-东方财经,http://192.168.1.99:81/bestv.php?id=dfcj
-东方影视,http://192.168.1.99:81/bestv.php?id=dfys
-东方购物,http://192.168.1.99:81/bestv.php?id=dfgw
-第一财经,http://192.168.1.99:81/bestv.php?id=dycj
-浦东电视台,http://192.168.1.99:81/bestv.php?id=pdtv
+上海ICS,http://192.168.1.99:81/bt.php?id=shics
+五星体育,http://192.168.1.99:81/bt.php?id=wxty
+法治天地,http://192.168.1.99:81/bt.php?id=fztd
+上海教育,http://192.168.1.99:81/bt.php?id=shjy
+东方财经,http://192.168.1.99:81/bt.php?id=dfcj
+东方影视,http://192.168.1.99:81/bt.php?id=dfys
+东方购物,http://192.168.1.99:81/bt.php?id=dfgw
+第一财经,http://192.168.1.99:81/bt.php?id=dycj
+浦东电视台,http://192.168.1.99:81/bt.php?id=pdtv
 
 上海新闻综合,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 
@@ -394,6 +394,24 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 香港,#genre#
 凤凰香港,http://113.64.145.105:8081/hls/38/index.m3u8
+
+
+百视通,#genre#
+戏曲精选,http://192.168.1.99:81/bestv.php?id=xqjx
+热门综艺,http://192.168.1.99:81/bestv.php?id=rmzy
+超级体育,http://192.168.1.99:81/bestv.php?id=cjty
+健康养生,http://192.168.1.99:81/bestv.php?id=jkys
+百变课堂,http://192.168.1.99:81/bestv.php?id=bbkt
+看天下精选,http://192.168.1.99:81/bestv.php?id=ktxjx
+华语影院,http://192.168.1.99:81/bestv.php?id=hyyy
+电竞天堂,http://192.168.1.99:81/bestv.php?id=djtt
+青春动漫,http://192.168.1.99:81/bestv.php?id=qcdm
+宝宝动画,http://192.168.1.99:81/bestv.php?id=bbdh
+星光影院,http://192.168.1.99:81/bestv.php?id=xgyy
+谍战剧场,http://192.168.1.99:81/bestv.php?id=dzjc
+全球大片,http://192.168.1.99:81/bestv.php?id=qqdp
+热门剧场,http://192.168.1.99:81/bestv.php?id=rmjc
+
 
 购物,#genre#
 央广购物,http://192.168.1.99:5050/udp/239.49.0.39:8000
