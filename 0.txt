@@ -255,11 +255,6 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 
 上海新闻综合,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 
-上海新闻综合,http://zhangjiang.lawangxian.com:9901/tsfile/live/0107_1.m3u8
-上海都市,http://zhangjiang.lawangxian.com:9901/tsfile/live/1000_1.m3u8
-第一财经,http://zhangjiang.lawangxian.com:9901/tsfile/live/0107_10.m3u8
-五星体育,http://zhangjiang.lawangxian.com:9901/tsfile/live/0107_11.m3u8
-
 第一财经,http://192.168.1.99:5050/udp/239.49.8.37:8000
 欢笑剧场4K,http://192.168.1.99:5050/udp/239.49.8.106:8000
 书画频道,http://192.168.1.99:5050/udp/239.49.0.123:8000
