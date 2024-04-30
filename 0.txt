@@ -247,11 +247,17 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 五星体育,http://192.168.1.99:81/bt.php?id=wxty
 法治天地,http://192.168.1.99:81/bt.php?id=fztd
 上海教育,http://192.168.1.99:81/bt.php?id=shjy
+哈哈炫动,http://192.168.1.99:81/bt.php?id=hhxd
 东方财经,http://192.168.1.99:81/bt.php?id=dfcj
 东方影视,http://192.168.1.99:81/bt.php?id=dfys
 东方购物,http://192.168.1.99:81/bt.php?id=dfgw
 第一财经,http://192.168.1.99:81/bt.php?id=dycj
-浦东电视台,http://192.168.1.99:81/bt.php?id=pdtv
+
+上海新闻综合,http://192.168.1.99:81/sh.php?id=shxwzh
+上海都市,http://192.168.1.99:81/sh.php?id=shds
+第一财经,http://192.168.1.99:81/sh.php?id=dycj
+上海纪实人文,http://192.168.1.99:81/sh.php?id=jsrw
+哈哈炫动,http://192.168.1.99:81/sh.php?id=hhxd
 
 上海新闻综合,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 
