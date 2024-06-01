@@ -251,9 +251,9 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 上海纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 
-上海新闻综合,http://192.168.1.99:81/bestv.php?id=shxwzh
-上海都市,http://192.168.1.99:81/bestv.php?id=shds
-上海纪实人文,http://192.168.1.99:81/bestv.php?id=shjsrw
+上海新闻综合,http://192.168.1.99:81/bt.php?id=shxwzh
+上海都市,http://192.168.1.99:81/bt.php?id=shds
+上海纪实人文,http://192.168.1.99:81/bt.php?id=shjsrw
 上海ICS,http://192.168.1.99:81/bt.php?id=shics
 五星体育,http://192.168.1.99:81/bt.php?id=wxty
 法治天地,http://192.168.1.99:81/bt.php?id=fztd
