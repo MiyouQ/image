@@ -431,6 +431,13 @@ RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
 
 测试,#genre#
+上海1,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=xwzh
+上海2,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=xwzhhd
+上海3,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=xwzhhd8m
+上海4,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=shxwzh
+上海5,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=xwzhhd8m/8000000
+cctv1-1,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=cctv1
+cctv1-2,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=cctv1hd8m/8000000
 3进1出,http://192.168.1.99:5050/udp/239.49.0.200:8000
 精彩推荐,http://192.168.1.99:5050/udp/239.49.8.34:8612
 BesTV4k 测试,http://192.168.1.99:5050/udp/239.49.0.202:8000
