@@ -1,0 +1,42 @@
+log-level notice
+log-file /mnt/sda3/smartdns/log/smartdns.log
+log-size 1M
+
+audit-enable yes
+audit-file /mnt/sda3/smartdns/log/smartdns-audit.log
+audit-size 1M
+
+cache-file /mnt/sda3/smartdns/cache/smartdns.cache
+cache-checkpoint-time 120
+
+serve-expired-ttl 2592000
+serve-expired-reply-ttl 5
+serve-expired-prefetch-time 86400
+
+max-query-limit 0
+max-reply-ip-num 4
+
+dualstack-ip-selection-threshold 5
+dualstack-ip-allow-force-AAAA no
+
+expand-ptr-from-address yes
+dnsmasq-lease-file /tmp/dhcp.leases
+
+socket-buff-size 1M
+
+domain-set -name chinalist -file /mnt/sda3/smartdns/domain_set/chinalist.conf
+domain-set -name gfwlist -file /mnt/sda3/smartdns/domain_set/gfwlist.conf
+
+domain-rules /domain-set:chinalist/ -nameserver China -response-mode first-ping -rr-ttl-min 300 -rr-ttl-max 900
+domain-rules /domain-set:gfwlist/ -nameserver OverSea -response-mode fastest-response
+
+#plugin smartdns_ui.so
+#smartdns-ui.ip http://[::]:6080
+#data-dir /mnt/sda3/smartdns/data
+#smartdns-ui.max-query-log-age 86400
+
+#adblock
+conf-file /mnt/sda3/smartdns/domain_set/adlist.conf
+conf-file /etc/smartdns/domain-set/anti-ad-for-smartdns.conf
+conf-file /etc/smartdns/domain-set/smartdns.conf
+conf-file /etc/smartdns/domain-set/smart-dns.conf
